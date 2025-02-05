@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amendrap
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Edexcel AIT
+- 🌱 I’m currently learning Edexcel AL IT and Cambridge Computer Science (9618)
 - 💞️ I’m looking to collaborate on Web Devoloping
 - 📫 How to reach me amendra.p@outlook.com
 - 😄 Pronouns: He/Him
